@@ -1,0 +1,20 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1950&q=80');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  min-height: 100vh;
+}
+
+.app-bg {
+  background: rgba(0, 0, 0, 0.7);
+  min-height: 100vh;
+  padding-top: 30px;
+}
+
+h1,
+h2,
+p {
+  color: white;
+}
